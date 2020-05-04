@@ -19,8 +19,6 @@ body{
      border-radius: 10px;
    }
    #get{
-     color: whitesmoke;
-     text-shadow: 2px 2px 5px black;
      margin-bottom: 10px;
    }
    h2{
@@ -63,12 +61,3 @@ body{
      h2{
        font-size:22px;
      }
-   .card-body{
-     color: rgb(0, 0, 0);
-   }
-   .card-deck{
-     padding-bottom: 20px;
-     font-weight: 600;
-     font-family: 'Sorts Mill Goudy', serif;
-     font-size: 18px;
-   }
